@@ -121,6 +121,8 @@ def luaran():
     fuzzy.to_excel('luaran.xlsx', index=False)
     
 
+#hasil clone
+
 if __name__== "__main__":
     masukan()
     luaran()

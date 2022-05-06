@@ -9,7 +9,8 @@ def masukan():
         'No': [],
         'ID': [],
         'IPK': [],
-        'Gaji': []
+        'Gaji': [],
+        'Hello': []
     })
 
     for baris in range(1, 101, 1):
